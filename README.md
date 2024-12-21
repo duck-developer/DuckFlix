@@ -10,8 +10,7 @@
 # Sobre o projeto
 ### uma plataforma de filmes desenvolvida com React Native! Este projeto visa proporcionar uma experiência completa de navegação e visualização de filmes diretamente no seu dispositivo móvel. Abaixo, você encontrará detalhes sobre as tecnologias e bibliotecas utilizadas.
 ## Layout 
-<img src="./readme/img1.jpg" alt="@duck_web" height="200"><img src="./readme/img2.jpg" alt="@duck_web" height="200"><img src="./readme/img3.jpg" alt="@duck_web" height="200"><img src="./readme/img4.jpg
-" alt="@duck_web" height="200">
+<img src="./readme/img1.jpg" alt="@duck_web" height="200"><img src="./readme/img2.jpg" alt="@duck_web" height="200"><img src="./readme/img3.jpg" alt="@duck_web" height="200"><img src="./readme/img4.jpg" alt="@duck_web" height="200">
 - React Native
 - TypeScript
 - Json-server
